@@ -5,7 +5,7 @@
 <ul>
   <li><b>Software Development Projects</b>
     <ul>
-      <li><a href="https://github.com/jmoncla/Java-Spring-Boot-Project1">Java Spring Boot Web Application</a> - Web app built with Spring Boot, demonstrating RESTful APIs, database integration.</li>
+      <li><a href="https://github.com/jmoncla/Java-Spring-Boot-Project1">Java Spring Boot Web Application</a> - Web app backend built with Spring Boot, demonstrating RESTful APIs, database integration.</li>
     </ul>
   </li>
   <li><b>Cybersecurity Projects</b>
