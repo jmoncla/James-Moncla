@@ -3,6 +3,11 @@
 <h2>👨‍💻 My Projects:</h2>
 
 <ul>
+  <li><b>Software Development Projects</b>
+    <ul>
+      <li><a href="https://github.com/jmoncla/Java-Spring-Boot-WebApp">Java Spring Boot Web Application</a> - Web app built with Spring Boot, demonstrating RESTful APIs, database integration</li>
+    </ul>
+  </li>
   <li><b>Cybersecurity Projects</b>
     <ul>
       <li><a href="https://github.com/jmoncla/Honeynet">Creating a Live SOC / Honeynet in Azure!</a></li>
