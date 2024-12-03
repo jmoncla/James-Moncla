@@ -19,4 +19,6 @@
 
 <ul>
   <li><b>CompTIA Security+ Certified</b></li>
+  <li><b>Linux Essentials Certified</b></li>
+  <li><b>ITIL 4 Foundation Certified</b></li>
 </ul>
