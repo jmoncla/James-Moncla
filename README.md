@@ -18,7 +18,7 @@
 <h2>📜 Certifications:</h2>
 
 <ul>
-  <li><b>CompTIA Security+ Certified</b></li>
-  <li><b>Linux Essentials Certified</b></li>
-  <li><b>ITIL 4 Foundation Certified</b></li>
+  <li><b>CompTIA Security+ </b></li>
+  <li><b>Linux Essentials </b></li>
+  <li><b>ITIL 4 Foundation </b></li>
 </ul>
