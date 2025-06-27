@@ -13,7 +13,7 @@
   </li>
   <li><b>Cybersecurity Projects</b>
     <ul>
-      <li><a href="https://github.com/jmoncla/Honeynet">Creating a Live SOC / Honeynet in Azure!</a></li>
+      <li><a href="https://github.com/jmoncla/Honeynet">Creating a Live SOC / Honeynet in Azure!</a> - A cloud-based cybersecurity lab built in Microsoft Azure to simulate attacks and incident response. Included Windows/Linux VMs, Microsoft Sentinel, Log Analytics, and Defender for Cloud. Used KQL, NSGs, and NIST SP 800-53 to collect, visualize, and reduce security events through environment hardening.</li>
     </ul>
   </li>
 </ul>
