@@ -6,9 +6,7 @@
   <li><b>Software Development Projects</b>
     <ul>
       <li>
-  <a href="https://github.com/jmoncla/Java-Spring-Boot-Project1">Java Spring Boot Web App</a> - A full-stack Java application for managing vacation package checkouts. Built with Spring Boot and MySQL, it features RESTful APIs, Spring Data JPA, and an Angular-integrated frontend. The backend follows a layered architecture (Controller, Service, DAO, Entity), demonstrating strong use of OOP principles, database interaction via JPA repositories, and streamlined development with Lombok.
-</li>
-
+          <a href="https://github.com/jmoncla/Java-Spring-Boot-Project1">Java Spring Boot Web App</a> - A full-stack Java application for managing vacation package checkouts. Built with Spring Boot and MySQL, it features RESTful APIs, Spring Data JPA, and an Angular-integrated frontend. The backend follows a layered architecture (Controller, Service, DAO, Entity), demonstrating strong use of OOP principles, database interaction via JPA repositories, and streamlined development with Lombok.</li>
       <li><a href="https://github.com/jmoncla/WGU-Capstone-Meal-Classifier-Machine-Learning-Web-App">Python Meal Classifier Web App</a> - A Django web app featuring machine learning, hosted with Heroku</li>
     </ul>
   </li>
